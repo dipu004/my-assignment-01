@@ -375,6 +375,7 @@ display: flex;
 justify-content: center;
 border-radius: 10px;
 background-color: whitesmoke;
+border: none;
 }
 .donate-button{
 display: flex;
