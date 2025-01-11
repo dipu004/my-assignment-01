@@ -1,0 +1,391 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+
+/* navbar-section-start */
+.navbar{
+display: flex;
+justify-content: space-around;
+padding: 17px;
+}
+.btn{
+padding: 15px 27px;
+border-radius: 8px;
+color: #006A50;
+border: 1px solid #006A50;
+transition: 0.5s;
+}
+.btn:hover{
+background-color: #09A15C;
+color: aliceblue;
+}
+/* navbar-section-end */
+
+/* banner-section-start */
+.banner-section{
+width: 1280px;
+height: 560px;
+margin: 0 auto;
+border-radius: 24px;
+text-align: justify;
+display: flex;
+align-items: center;
+background-color: #C6E4D6;
+}
+.banner-img{
+float: right;
+}
+.banner-content{
+margin-left: 60px;
+}
+.banner-button{
+padding: 17px 34px;
+border-radius: 8px;
+background-color: #006A50;
+color: white;
+font-size: 18px;
+border: none;
+margin-top: 24px;
+transition: 0.5s;
+}
+.banner-button:hover{
+background-color: chartreuse;
+color: black;
+}
+.banner-subtitle{
+color: #0E0E0E;
+padding: 10px;
+}
+.banner-title{
+font-size: 56px;
+color: #0E0E0E;
+}
+/* banner-section-end */
+
+/* Pilar-Section-Start */
+.pillars-section{
+height: 324px;
+width: 1280px;
+margin: 80px auto;
+}
+.pillar-cards{
+display: flex;
+justify-content: space-around;
+gap: 30px;
+padding: 20px;
+}
+.innovation{
+width: 302px;
+height: 244px;
+padding: 24px;
+border-radius: 16px;
+background-color: azure;
+}
+.Sustainability{
+ width: 302px;
+ height: 244px;
+ padding: 24px;
+ border-radius: 16px;
+ background-color: azure;
+}
+.Infrastructure{
+ width: 302px;
+ height: 244px;
+padding: 24px;
+ border-radius: 16px;
+ background-color: azure;
+}
+.Empowerment{
+ width: 302px;
+ height: 244px;
+ padding: 24px;
+border-radius: 16px;
+background-color: azure;
+}
+.pillar-title{
+font: bold;
+font-size: 30px;
+margin-left: 15px;
+}
+/* pillar-section-end */
+
+/* Second-card-section-start */
+.second-cards-section{
+width: 1280px;
+height: 765px;
+margin: 80px auto;
+}
+.Digital-Transformation{
+height: 325px;
+width: 410px;
+border-radius: 16px;
+padding: 32px;
+margin-top:32px ;
+background-color: #94B6F0;
+}
+.button-1{
+border-radius: 8px;
+width: 122px;
+height: 41px;
+background-color: #5490F5;
+border: none;
+color: white;
+margin-top: 24px;
+transition: 0.5s;
+}
+.cards-paragraph-1{
+margin-top: 12px;
+font: bold;
+}
+.cards-paragraph{
+padding: 10px;
+font: bold;
+margin-left: 8px;
+}
+.cards-title-1{
+padding: 10px;
+font: bold;
+font-size: 30px;
+margin-left: 7px;
+}
+.Green-Energy{
+ height: 325px;
+ width: 410px;
+ border-radius: 16px;
+padding: 32px;
+margin-top:32px ;
+background-color:#C6E4D6;
+}
+.button-2{
+border-radius: 8px;
+ width: 122px;
+ height: 41px;
+ background-color: #09A15C;
+ border: none;
+ color: white;
+ margin-top: 24px;
+ transition: 0.5s;
+}
+.Modern-Infrastructure{
+height: 325px;
+width: 410px;
+border-radius: 16px;
+padding: 32px;
+margin-top:32px ;
+background-color:#F7EBCF;
+}
+.button-3{
+border-radius: 8px;
+width: 122px;
+height: 41px;
+background-color: #FFC239;
+border: none;
+color: white;
+margin-top: 24px;
+}
+.second-cards{
+display: flex;
+padding: 20px;
+gap: 18px;
+}
+.button-1:hover{
+background-color: black;
+color: white;
+}
+.button-2:hover{
+background-color: black;
+color: white;
+}
+.button-3:hover{
+background-color: black;
+color: white;
+}
+.card-footer-title{
+width: 1220px;
+height: 256px;
+border-radius: 16px;
+background-color: seashell;
+padding: 27px;
+background-image: url('assets/quote-bg.png');
+background-repeat: no-repeat;
+margin: auto;
+
+}
+/* second-card-section-end */
+
+/* News-section-start */
+.news-section{
+width: 1280px;
+height: 1433px;
+margin: 200px auto;
+
+}
+.box-1{
+display: flex;
+padding: 20px;
+}
+.righ-title, img{
+border-radius: 24px;
+margin-right: 10px;
+width: 408;
+height: 306;
+}
+.news-content{
+padding: 20px;
+margin-left: 14px;
+}
+.news-button{
+width: 139px;
+height: 48px;
+border-radius: 8px;
+background-color: #006A50;
+color: white;
+border: none;
+margin-top: 32px;
+}
+.news-title-1{
+font: bold;
+font-size: 30px;
+margin-bottom: 10px;
+}
+.news-paragraph-1{
+font: bold;
+}
+.news-title-2{
+margin: 12px 0;
+}
+.news-paragraph-2{
+margin: 14px 0;
+font: bold;
+}
+.news-icon-1{
+margin: 20px 0;
+}
+.box-1{
+width: 1232px;
+height: 344px;
+border-radius: 24px;
+background-color: lavender;
+padding: 35px;
+margin: 14px;
+}
+/* News-section-end */
+
+/* Donate-section-start */
+.donate-section{
+height: 464px;
+width: 1280px;
+margin: 0 auto;
+background-color: aliceblue;
+border-radius: 10px;
+}
+.donate-content{
+text-align: center;
+}
+.item-1{
+width: 160px;
+height: 70px;
+border-radius: 10px;
+align-items: center;
+justify-content: center;
+display: flex;
+font: bold;
+font-weight: 10px;
+font-size: 30px;
+background-color: wheat;
+}
+.item-2{
+width: 160px;
+height: 70px;
+border-radius: 10px;
+align-items: center;
+justify-content: center;
+display: flex;
+font: bold;
+font-weight: 10px;
+font-size: 30px;
+background-color: #C6E4D6;
+}
+.item-3{
+width: 160px;
+height: 70px;
+border-radius: 10px;
+align-items: center;
+justify-content: center;
+display: flex;
+font: bold;
+font-weight: 10px;
+font-size: 30px;
+background-color: wheat;
+}
+.item-4{
+width: 160px;
+height: 70px;
+border-radius: 10px;
+align-items: center;
+justify-content: center;
+display: flex;
+font: bold;
+font-weight: 10px;
+font-size: 30px;
+background-color: wheat;
+}
+.item-5{
+width: 160px;
+height: 70px;
+border-radius: 10px;
+align-items: center;
+justify-content: center;
+display: flex;
+font: bold;
+font-weight: 10px;
+font-size: 30px;
+background-color: wheat;
+}
+.grid-item{
+display: flex;
+justify-content: center;
+margin-left: 235px;
+gap: 10px;
+}
+.donate-content{
+margin: 30px 20px;
+}
+.donate-title{
+margin: 20px;
+font: bolder;
+font-size: 36px;
+}
+.donate-paragraph{
+font: bold;
+}
+input[type='text']{
+padding: 20px;
+height: 10px;
+width: 1032px;
+margin: 30px auto;
+text-align: center;
+display: flex;
+justify-content: center;
+border-radius: 10px;
+background-color: whitesmoke;
+}
+.donate-button{
+display: flex;
+justify-content: center;
+}
+.donate-btn{
+padding: 14px;
+border-radius: 10px;
+font: 600;
+border: none;
+background-color: #09A15C;
+color: white;
+transition: 0.5s;
+}
+.donate-btn:hover{
+background-color: aqua;
+color: black;
+}
+/* Donate-section-End */
