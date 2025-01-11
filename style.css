@@ -243,6 +243,11 @@ background-color: #006A50;
 color: white;
 border: none;
 margin-top: 32px;
+transition: 0.5s;
+}
+.news-button:hover{
+background-color: cyan;
+color: black;
 }
 .news-title-1{
 font: bold;
@@ -389,3 +394,7 @@ background-color: aqua;
 color: black;
 }
 /* Donate-section-End */
+
+/* Newsletter-section-start */
+
+
