@@ -450,5 +450,29 @@ color: white;
 /*newslater-section-end */
 
 /* footer-section-start */
+.footer-container{
+height: 226px;
+width: 100%;
+margin: 80px auto;
+background-color: rgba(255, 255, 255, 1);
+}
+.footer-title{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.footer-social-icon{
+display: flex;
+border-top: 1px solid gray;
+justify-content: center;
+align-items: center;
+margin-top: 50px;
+padding: 50px;
+gap: 14px;
+}
+.footer-title-7{
+margin-top: 50px;
+}
+
 
 
