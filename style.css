@@ -2,7 +2,9 @@
 padding: 0px;
 margin: 0px;
 }
-
+body{
+background-color: #F5F5F5;
+}
 /* navbar-section-start */
 .navbar{
 display: flex;
@@ -80,28 +82,28 @@ width: 302px;
 height: 244px;
 padding: 24px;
 border-radius: 16px;
-background-color: azure;
+background-color: white;
 }
 .Sustainability{
  width: 302px;
  height: 244px;
  padding: 24px;
  border-radius: 16px;
- background-color: azure;
+ background-color: white;
 }
 .Infrastructure{
  width: 302px;
  height: 244px;
 padding: 24px;
  border-radius: 16px;
- background-color: azure;
+ background-color: white;
 }
 .Empowerment{
  width: 302px;
  height: 244px;
  padding: 24px;
 border-radius: 16px;
-background-color: azure;
+background-color: white;
 }
 .pillar-title{
 font: bold;
@@ -122,7 +124,7 @@ width: 410px;
 border-radius: 16px;
 padding: 32px;
 margin-top:32px ;
-background-color: #94B6F0;
+background-color: #A0C4FF;
 }
 .button-1{
 border-radius: 8px;
@@ -205,7 +207,7 @@ color: white;
 width: 1220px;
 height: 256px;
 border-radius: 16px;
-background-color: seashell;
+background-color: white;
 padding: 27px;
 background-image: url('assets/quote-bg.png');
 background-repeat: no-repeat;
@@ -271,7 +273,7 @@ margin: 20px 0;
 width: 1232px;
 height: 344px;
 border-radius: 24px;
-background-color: lavender;
+background-color: white;
 padding: 35px;
 margin: 14px;
 }
@@ -282,8 +284,8 @@ margin: 14px;
 height: 464px;
 width: 1280px;
 margin: 0 auto;
-background-color: aliceblue;
 border-radius: 10px;
+background-color: transparent;
 }
 .donate-content{
 text-align: center;
@@ -298,7 +300,7 @@ display: flex;
 font: bold;
 font-weight: 10px;
 font-size: 30px;
-background-color: wheat;
+background-color: white;
 }
 .item-2{
 width: 160px;
@@ -322,7 +324,7 @@ display: flex;
 font: bold;
 font-weight: 10px;
 font-size: 30px;
-background-color: wheat;
+background-color: white;
 }
 .item-4{
 width: 160px;
@@ -334,7 +336,7 @@ display: flex;
 font: bold;
 font-weight: 10px;
 font-size: 30px;
-background-color: wheat;
+background-color: white;
 }
 .item-5{
 width: 160px;
@@ -346,7 +348,7 @@ display: flex;
 font: bold;
 font-weight: 10px;
 font-size: 30px;
-background-color: wheat;
+background-color: white;
 }
 .grid-item{
 display: flex;
@@ -374,7 +376,7 @@ text-align: center;
 display: flex;
 justify-content: center;
 border-radius: 10px;
-background-color: whitesmoke;
+background-color: white;
 border: none;
 }
 .donate-button{
