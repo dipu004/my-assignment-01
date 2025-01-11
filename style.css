@@ -351,7 +351,7 @@ background-color: wheat;
 .grid-item{
 display: flex;
 justify-content: center;
-margin-left: 235px;
+margin-left: -36px;
 gap: 10px;
 }
 .donate-content{
@@ -395,6 +395,60 @@ color: black;
 }
 /* Donate-section-End */
 
-/* Newsletter-section-start */
+/* Newslatter-section-start */
+.news-later-section{
+height: 395px;
+width: 1280px;
+margin: 50px auto;
+border: 1px solid #C6E4D6;
+border-radius: 24px;
+background-color: #C6E4D6;
+}
+.later-content{
+text-align: center;
+margin-top: 80px;
+}
+.later-title{
+font: 700;
+padding: 18px;
+font-size: 34px;
+}
+.later-paragraph{
+font: bold;
+}
+.input-field-4{
+display: flex;
+align-items: center;
+margin-right: 40px;
+justify-content: center;
+margin-top: 20px;
+}
+.later-button{
+padding: 20px;
+width: 160px;
+border-radius: 0px 20px 20px 0px;
+transition: 0.5s;
+
+background-color: #006A50;
+font-size: 17px;
+color: white;
+border: none;
+font: bold;
+}
+input[type='email']{
+padding: 20px;
+width: 600px;
+border-radius:  20px 0px 0px 20px;
+text-align:center;
+font: bold;
+font-size: 16px;
+}
+.later-button:hover{
+background-color: navy;
+color: white;
+}
+/*newslater-section-end */
+
+/* footer-section-start */
 
 
